@@ -4,7 +4,7 @@ This is an example Remix app that has been modified and configured to use OAuth/
 
 Compatible with Remix v1 (latest of this writing).
 
-Check out [my blog post](https://aarongodin.dev/adding-oauth-oidc-to-a-remix-app/) for more in-depth description of the implementation!
+Check out [my blog post](https://aarongodin.dev/blog/adding-oauth-oidc-to-a-remix-app) for more in-depth description of the implementation!
 
 -----------
 
